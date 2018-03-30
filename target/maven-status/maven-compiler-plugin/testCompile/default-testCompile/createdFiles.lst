@@ -1,0 +1,12 @@
+com\faceye\test\feature\repository\ObjTestCase.class
+com\faceye\test\feature\service\BaseTestCase.class
+com\faceye\test\feature\repository\EntityManagerFactoryTestCase.class
+com\faceye\test\feature\util\DecriptUtilsTestCase.class
+com\faceye\test\feature\util\SHAUtilsTestCase.class
+com\faceye\test\feature\repository\BaseRepositoryTestCase.class
+com\faceye\test\feature\repository\ObjA.class
+com\faceye\test\feature\controller\BaseControllerTestCase.class
+com\faceye\test\feature\util\MathUtilsTestCase.class
+com\faceye\test\feature\service\BaseServiceTestCase.class
+com\faceye\test\feature\repository\ObjB.class
+com\faceye\test\feature\repository\ConnectionManagerTestCase.class
